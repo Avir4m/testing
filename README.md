@@ -9,10 +9,10 @@ W.I.P
 ## Tech Stack
 
 ### **Frontend**
-- **Next.js**
-- **React**
-- **TypeScript**
-- **Tailwind CSS**
+- **[Next.js](https://nextjs.org/)**
+- **[React](https://reactjs.org/)**
+- **[TypeScript](https://www.typescriptlang.org/)**
+- **[Tailwind CSS](https://tailwindcss.com/)**
 
 ### **Backend & Database**
-- **Supabase**
+- **[Supabase](https://supabase.com/)**
